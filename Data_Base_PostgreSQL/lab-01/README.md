@@ -9,3 +9,5 @@
    ## Files
    - lab1.sql — full SQL script
    - lab report (.docx)
+# Score obtained
+- 12/13 
